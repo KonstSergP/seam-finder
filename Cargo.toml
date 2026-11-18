@@ -2,5 +2,9 @@
 name = "seam-finder"
 version = "0.1.0"
 edition = "2024"
+description = "Program for welding seam localization using RGB-D camera data"
+repository = "https://github.com/KonstSergP/seam-finder"
+license = "MIT"
+readme = "README.md"
 
 [dependencies]
